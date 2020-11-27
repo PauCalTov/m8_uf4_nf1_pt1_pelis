@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Jugadores
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Leyendas: futbolistas.md
+theme: readthedocs
+
+copyright: Copyright &copy; 2020 - 2020 Pau Callejas
